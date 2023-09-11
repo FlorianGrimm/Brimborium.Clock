@@ -1,0 +1,13 @@
+HTML {
+  font-size: 14px;
+  position: relative;
+  min-height: 100%;
+}
+
+TD {
+  width: 24%;
+}
+
+VIDEO {
+  width: 100%;
+}
